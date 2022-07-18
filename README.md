@@ -11,3 +11,7 @@ Watch more text is here
 ### Local Dev
 
 1. Open index.html when you got time
+
+#### New Dev
+
+Here are some changes that I have made
